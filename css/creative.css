@@ -17,7 +17,8 @@ hr {
   max-width: 50px;
 }
 .produit{
-  margin-top: 30px
+  margin-top: 30px;
+  margin-bottom: 30px
 }
 hr.light {
   border-color: white;
@@ -236,8 +237,9 @@ header .header-content .header-content-inner p {
   color: white;
   opacity: 0;
   display: block;
-  background: rgba(240, 95, 64, 0.9);
+  background: rgba(56, 139, 60, 0.9);
   position: absolute;
+  border-radius: 8px;
   bottom: 0;
   text-align: center;
   width: 100%;
